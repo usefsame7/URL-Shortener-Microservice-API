@@ -8,14 +8,13 @@ This repository contains a URL shortener microservice API that allows you to sho
 - [Installation](#installation)
 - [Usage](#usage)
 - [Endpoints](#endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - Shorten long URLs into shorter links.
 - Redirect shortened links to their original URLs.
 - Track the number of clicks on each shortened link.
-- Retrieve information about shortened links, including creation date and number of clicks.
+
 
 ## Prerequisites
 To run this microservice API, you need to have the following software installed on your system:
