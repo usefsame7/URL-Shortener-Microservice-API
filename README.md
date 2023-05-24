@@ -83,5 +83,12 @@ The API exposes the following endpoints:
   Redirects the user to the original URL associated with the provided short URL code.\
   Response: Redirects to the original URL.
 
+## Contact
 
+If you have any questions or suggestions regarding this project, please feel free to contact the project owner:
+
+- Name: Youssef Sameh Elsisy
+- Email: yousameh2006@gmail.com
+
+**Regards.Y**
 
