@@ -63,7 +63,7 @@ To use the URL shortener microservice API, you can send HTTP requests to the ava
 ## Endpoints
 The API exposes the following endpoints:
 
-- **POST /shorturl**\
+- **POST /api/shorturl**\
   Creates a shortened URL from a long URL.\
   Request body:
   ```
